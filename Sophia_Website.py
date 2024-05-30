@@ -45,7 +45,7 @@ if selected == 'Pictures':
         col1, col2, col3 = st.columns(3)
 
         try:
-            img = Image.open(f"/Users/saminakashif/Downloads/Sophia{i}.jpg")
+            img = Image.open(f"Sophia{i}.jpg")
             img = ImageOps.exif_transpose(img)
 
             if i == 1:
