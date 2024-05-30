@@ -9,7 +9,6 @@ from PIL import Image
 from PIL import ImageOps
 import requests
 import streamlit as st
-from streamlit_lottie import st_lottie
 from streamlit_option_menu import option_menu
     
 st.set_page_config(page_title = "A website for Sophia", page_icon = ":heart:", layout = 'wide')
