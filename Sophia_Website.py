@@ -220,7 +220,7 @@ if selected == 'Code':
 If you were curious, I have attached the code to this page.
 </p>
 """
-        st.markdown("https://github.com/WaliSiddiqui1/Website/upload")
+        st.markdown("https://github.com/WaliSiddiqui1/Website/edit/main/Sophia_Website.py")
 
     
     
